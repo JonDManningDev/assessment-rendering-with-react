@@ -1,3 +1,6 @@
+# Assessment: Rendering with React
+*This repo is my solution for the Qualified assessment for 5.2.11. Complete component files and main App.js file to render a website with React and JSX code. Then add rough styling with .css files for each component.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
