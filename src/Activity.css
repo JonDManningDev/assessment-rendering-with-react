@@ -1,0 +1,15 @@
+li {
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.time {
+    width: 300px;
+    text-align: right;
+}
+
+.description {
+    text-align: left;
+    padding-right: 80px;
+}
